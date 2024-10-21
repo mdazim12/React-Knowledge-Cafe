@@ -13,7 +13,7 @@ const Blogs = () => {
 
     return (
         <div>
-            <h3>hello i am form blogs : {blogs.length} </h3>
+            
         </div>
     );
 };
