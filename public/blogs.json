@@ -1,53 +1,52 @@
 [
-    {
-      "id": 101,
-      "cover_img": "https://images.unsplash.com/photo-1560807707-8cc77767d783",
-      "title": "Finding Furry Friends: Adopting a Puppy",
-      "author": "Sarah Palmer",
-      "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
-      "post_time": "2024-10-21",
-      "reading_time": 5,
-      "hashtag": ["#adoption", "#puppy", "#dogs"]
-    },
-    {
-      "id": 102,
-      "cover_img": "https://images.unsplash.com/photo-1560114927-40e7b89f9c32",
-      "title": "How to Prepare for Your First Cat",
-      "author": "James Carter",
-      "author_img": "https://randomuser.me/api/portraits/men/36.jpg",
-      "post_time": "2024-10-18",
-      "reading_time": 4,
-      "hashtag": ["#cats", "#petcare", "#adoption"]
-    },
-    {
-      "id": 103,
-      "cover_img": "https://images.unsplash.com/photo-1592194996308-dc9126f1a68c",
-      "title": "Bunny Care: What to Know Before You Adopt",
-      "author": "Emily Rogers",
-      "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
-      "post_time": "2024-10-15",
-      "reading_time": 6,
-      "hashtag": ["#bunny", "#pets", "#adoption"]
-    },
-    {
-      "id": 104,
-      "cover_img": "https://images.unsplash.com/photo-1592194996308-dc9126f1a68c",
-      "title": "Adopting a Parrot: A Beginner's Guide",
-      "author": "Michael Lee",
-      "author_img": "https://randomuser.me/api/portraits/men/29.jpg",
-      "post_time": "2024-10-10",
-      "reading_time": 5,
-      "hashtag": ["#parrot", "#pets", "#adoption"]
-    },
-    {
-      "id": 105,
-      "cover_img": "https://images.unsplash.com/photo-1602924453654-3d43558f799f",
-      "title": "Welcoming a Hamster: Small but Mighty Friends",
-      "author": "Laura White",
-      "author_img": "https://randomuser.me/api/portraits/women/33.jpg",
-      "post_time": "2024-10-08",
-      "reading_time": 3,
-      "hashtag": ["#hamster", "#smallpets", "#adoption"]
-    }
-  ]
-  
+  {
+    "id": 101,
+    "cover_img": "https://i.ibb.co.com/tXfGGrc/online-message-blog-chat-communication-envelop-graphic-icon-concept-53876-139717.jpg",
+    "title": "Finding Furry Friends: Adopting a Puppy",
+    "author": "Sarah Palmer",
+    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "post_time": "2024-10-21",
+    "reading_time": 5,
+    "hashtag": ["#adoption", "#puppy", "#dogs"]
+  },
+  {
+    "id": 102,
+    "cover_img": "https://i.ibb.co.com/RSbPJmq/depositphotos-238703224-stock-photo-notepad-few-words-first-blog.webp",
+    "title": "How to Prepare for Your First Cat",
+    "author": "James Carter",
+    "author_img": "https://randomuser.me/api/portraits/men/36.jpg",
+    "post_time": "2024-10-18",
+    "reading_time": 4,
+    "hashtag": ["#cats", "#petcare", "#adoption"]
+  },
+  {
+    "id": 103,
+    "cover_img": "https://i.ibb.co.com/TY0Ly67/create-cover-images.webp",
+    "title": "Bunny Care: What to Know Before You Adopt",
+    "author": "Emily Rogers",
+    "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+    "post_time": "2024-10-15",
+    "reading_time": 6,
+    "hashtag": ["#bunny", "#pets", "#adoption"]
+  },
+  {
+    "id": 104,
+    "cover_img": "https://i.ibb.co.com/YtWp5Jb/blogging-website-and-internet-concept-banner-with-blog-word-sign-on-ERMBBJ.jpg",
+    "title": "Adopting a Parrot: A Beginner's Guide",
+    "author": "Michael Lee",
+    "author_img": "https://randomuser.me/api/portraits/men/29.jpg",
+    "post_time": "2024-10-10",
+    "reading_time": 5,
+    "hashtag": ["#parrot", "#pets", "#adoption"]
+  },
+  {
+    "id": 105,
+    "cover_img": "https://i.ibb.co.com/vkCW2H1/toy-bricks-table-with-word-my-blog-144627-47466.jpg",
+    "title": "Welcoming a Hamster: Small but Mighty Friends",
+    "author": "Laura White",
+    "author_img": "https://randomuser.me/api/portraits/women/33.jpg",
+    "post_time": "2024-10-08",
+    "reading_time": 3,
+    "hashtag": ["#hamster", "#smallpets", "#adoption"]
+  }
+]
