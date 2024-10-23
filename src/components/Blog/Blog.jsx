@@ -6,7 +6,7 @@ import { IoBookmarksOutline } from "react-icons/io5";
 
 const Blog = ({ blog ,handleAddToBookmark }) => {
 
-    const {id,title,cover_img,author,author_img,reading_time,post_time,hashtag} = blog;
+    const {title,cover_img,author,author_img,reading_time,post_time,hashtag} = blog;
 
 
     return (
@@ -32,7 +32,7 @@ const Blog = ({ blog ,handleAddToBookmark }) => {
 
             <div>
                     <span>{reading_time} min read</span>
-                    <button onClick={()=> handleAddToBookmark(id)} className='inline-block ml-2 text-xl'> <IoBookmarksOutline /></button>
+                    <button onClick={()=> handleAddToBookmark(blog)} className='inline-block ml-2 text-xl'> <IoBookmarksOutline /></button>
             </div>
             
 

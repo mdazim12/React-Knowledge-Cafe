@@ -11,6 +11,8 @@ function App() {
 
   const handleAddToBookmark = (blog) =>{
     console.log(blog);
+    const newBookMark = [...Bookmark, blog]
+    setBookmarks(newBookMark)
   }
 
   return (
@@ -19,7 +21,7 @@ function App() {
       <Header></Header>  
      <div className='md:flex container mx-auto'>
         <Blogs handleAddToBookmark ={handleAddToBookmark}></Blogs>
-        <Bookmarks></Bookmarks>
+        <Bookmarks Bookmark = {Bookmark}></Bookmarks>
      </div>
 
     </>
