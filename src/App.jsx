@@ -18,8 +18,10 @@ function App() {
   }
 
 
-  const handleMarkAsRead = time =>{
-    setReadingTime(readingTime + time)
+  const handleMarkAsRead = (time , id) =>{
+    setReadingTime(readingTime + time);
+    const reamingBookMark = Bookmark.filter(bookmark => bookmark.id !== id)
+    setBookmarks(reamingBookMark);
   }
 
   return (
