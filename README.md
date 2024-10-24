@@ -1,6 +1,6 @@
 # Bookmark Display App
 
-This is a simple React application that displays fake data representing single bookmark items. It uses `react-icons` for icons and `PropTypes` for prop validation. The app is deployed on Netlify and can be accessed [here](https://fantastic-sopapillas-1e2edf.netlify.app/).
+This is a simple React application that displays fake data representing single bookmark items. It uses `react-icons` for icons and `PropTypes` for prop validation. The app is deployed on Netlify and can be accessed [Live Link](https://fantastic-sopapillas-1e2edf.netlify.app/).
 
 ## Features
 
@@ -19,9 +19,3 @@ Follow these instructions to get a copy of the project running on your local mac
 - Node.js
 - npm or yarn
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/bookmark-display-app.git
